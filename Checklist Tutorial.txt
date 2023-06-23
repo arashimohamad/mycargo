@@ -1,6 +1,6 @@
 1	Tutorial Laravel 10 Aplikasi Kargo #1	
-2	Tutorial Laravel 10 Aplikasi Kargo #2   - Done (minit ke 6)	
-3	Tutorial Laravel 10 Aplikasi Kargo #3	
+2	Tutorial Laravel 10 Aplikasi Kargo #2   
+3	Tutorial Laravel 10 Aplikasi Kargo #3   - Done	
 4	Tutorial Laravel 10 Aplikasi Kargo #4	
 5	Tutorial Laravel 10 Aplikasi Kargo #5	
 6	Tutorial Laravel 10 Aplikasi Kargo #6	
